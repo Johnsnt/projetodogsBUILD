@@ -1,2 +1,2 @@
 # projetodogsBUILD
-ProjetoDog upado com Build para testar possíveis efeitos colaterais 
+Rede social para cachorros.
